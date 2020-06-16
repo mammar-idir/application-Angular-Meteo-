@@ -1,0 +1,8 @@
+{
+  "name": "MonAppt",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -17,6 +17,4 @@ import { GalleryPage } from './gallery.page';
   ],
   declarations: [GalleryPage]
 })
-export class GalleryPageModule {
-  //test sur la premier commit
-}
+export class GalleryPageModule {}
